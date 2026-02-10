@@ -3,7 +3,7 @@ from flask import Flask, jsonify, request
 from flask_cors import CORS
 from database import init_app, get_db
 from models import Note
-from dotenv import load_dotenv
+dfgdfg
 from flask import Flask, jsonify, request, make_response
 
 # Загружаем переменные окружения
